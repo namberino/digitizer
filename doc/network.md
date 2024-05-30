@@ -15,7 +15,7 @@ This is the stage where we run the image from the input layer to the output laye
 For the input layer, there's no processing, just taking in the data:
 
 $$
-A_0 = X \; (784 * m)
+A_0 = X \ (784 * m)
 $$
 
 ## Hidden layers
