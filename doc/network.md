@@ -165,3 +165,11 @@ We'll need to extract the data from the csv file and initialize some initial par
 # Testing the model
 
 We'll run the model on the test dataset. We only need to use forward propagation for testing.
+
+# Improvements
+
+The model is currently quite simple. Here's some things we can add to this model to make it more complex and more powerful:
+
+- More layers
+- Regularization
+- Different gradient descent variants (like gradient descent with momentum, might yield better optimization)
