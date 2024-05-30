@@ -12,7 +12,7 @@ This is the stage where we run the image from the input layer to the output laye
 
 ## Input layer
 
-For the input layer, there's no processing, just taking in the data:
+For the input layer, there's no processing, just taking in the data ($X$):
 
 $$
 A_0 = X \ (784 * m)
