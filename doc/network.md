@@ -156,7 +156,7 @@ $$
 B_3 = B_3 - \alpha * dB_3
 $$
 
-Here, $\alpha$ is the learning rate. We'll hardcode this learning rate. We want to pick a good learning rate because too high a learning rate could cause the model to overshoot and lead to oscillations and too low a learning rate could cause the model to take a long time to achieve a good performance. 
+Here, $\alpha$ is the learning rate. We'll hardcode this learning rate for now. We want to pick a good learning rate because too high a learning rate could cause the model to overshoot and lead to oscillations and too low a learning rate could cause the model to take a long time to achieve a good performance. 
 
 # Training the model
 
